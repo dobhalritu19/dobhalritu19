@@ -22,6 +22,10 @@ Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/dobhalri
 
 Let's connect, collaborate, and create amazing things together!
 
+## 🌟 Chrome Extension
+
+Check out my Chrome extension: [Drink Water Reminder](https://github.com/dobhalritu19/chrome-extension-Drink-Water-Reminder)
+
 ---
 
 ⭐️ From [Ritu Dobhal](https://github.com/dobhalritu19)
